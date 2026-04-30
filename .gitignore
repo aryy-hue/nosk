@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+vgg19_raw.pth
 
 # Distribution / packaging
 .Python
